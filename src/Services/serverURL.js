@@ -1,0 +1,1 @@
+export const SERVER_URL="https://movies-crud-server-0eaq.onrender.com"
